@@ -1,1 +1,1 @@
-# bluebirdjswithtypescript
+# bluebird js with typescript sandbox
